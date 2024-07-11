@@ -56,6 +56,56 @@ Contributions are welcome! If you have suggestions for improving this project, f
     ```
 5. **Open a pull request**.
 
+
+# Task2- Maltimart Ecommerce
+
+## 📌 Live Demo
+https://multimart-ecommerce.onrender.com
+
+## 😎 Features
+
+- Beauty UI similar to ecommerce website
+- Fully responsive and mobile friendly
+- User can add items to cart
+- User can view details of an item
+- User can show total price in cart
+- In Item page user can add quantity of item to cart instead of click add more and more 
+
+## 🚀 What technologies were used?
+
+- react.js (create-react-app)
+- react-dom-router
+- react-bootstrap
+- state management using Redux Toolkit
+
+## How can you clone and tweak this project?
+
+From your command line, first clone this repo:
+
+```
+# Clone this repository
+$ https://github.com/https://github.com/ankitgupta143/ShadowFox/multimart-react-ecommerce.git
+
+# Go into the repository
+$ cd multimart-react-ecommerce
+
+# Remove current origin repository
+$ git remote remove origin
+
+```
+
+Then you can install the dependencies using NPM:
+
+```
+# Install dependencies
+$ npm install
+
+# Start development server
+$ npm start
+```
+👨‍💻 Happy coding!
+---
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](ankitgupta143) file for details.
 
@@ -66,3 +116,5 @@ This project is licensed under the MIT License. See the [LICENSE](ankitgupta143)
 ---
 
 Feel free to customize this README file to fit your specific project and personal information.
+
+
